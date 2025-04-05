@@ -50,3 +50,18 @@ c(1,.5,0)[as.numeric(as.factor(boxes))[1:5]] #Los convierte en numéricos "conti
 ```
 
     [1] 1.0 0.0 0.0 0.5 1.0
+
+and see what changes.
+
+What is the frequency distribution of ones (gold dagger seen first) and
+zeroes (silver dagger seen first)?
+
+``` r
+table(dagger)/10^5
+```
+
+    dagger
+         0      1 
+    0.5001 0.4999 
+
+Pretty much 50/50. As expected.
