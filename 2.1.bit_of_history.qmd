@@ -92,3 +92,5 @@ table(dtf$other[dtf$dagger==1])/sum(table(dtf$other[dtf$dagger==1]))
 So, about 2/3 probability of the other dagger being golden and only probability of the other dagger being silver. Which means, that if the first dagger the guest sees is golden, the reasonable bet is that the other one is too.
 
 The simulations give you some intuition how things work. But, of course, it would be nice to have a more rigorous method to hand. Enter the Bayes’ Theorem.
+
+## 2.2. Introducing Bayes Formula
