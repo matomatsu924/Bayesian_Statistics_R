@@ -1,7 +1,7 @@
 # Bayesian Statistics
 Mauricio Matoma
 
-## Hola bebé qué más pues ?. Este es el primer ejercicio de estadística bayesiana en R, cierto mor? la mireya y el traído
+First simulation
 
 ``` r
 set.seed(20202020)
