@@ -65,3 +65,5 @@ table(dagger)/10^5
     0.5001 0.4999 
 
 Pretty much 50/50. As expected.
+
+Final
